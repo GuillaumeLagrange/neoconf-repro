@@ -2,5 +2,5 @@
 fn main() {
     println!("This change is added in the PR before merging");
 
-    toto(1)
+    // This is a change from base and not the PR
 }
