@@ -1,6 +1,6 @@
 // A
 fn main() {
-    println!("Hello, world from service_a!");
+    println!("This change is added in the PR before merging");
 
     toto(1)
 }
