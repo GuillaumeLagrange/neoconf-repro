@@ -3,9 +3,9 @@
 version = 3
 
 [[package]]
-name = "service_a"
+name = "service_b"
 version = "0.1.0"
 
 [[package]]
-name = "service_b"
+name = "service_d"
 version = "0.1.0"
