@@ -7,5 +7,5 @@ name = "service_b"
 version = "0.1.0"
 
 [[package]]
-name = "service_d"
+name = "service_z"
 version = "0.1.0"
