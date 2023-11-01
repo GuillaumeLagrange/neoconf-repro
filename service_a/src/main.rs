@@ -2,5 +2,5 @@
 fn main() {
     println!("Hello, world from service_a!");
 
-    toto(1)
+    println!("This is a diff before rename");
 }
